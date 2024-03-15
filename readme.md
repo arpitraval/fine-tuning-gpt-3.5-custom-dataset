@@ -2,6 +2,8 @@
 
 # prerequisites
 
+```
 OpenAI Key
 Python 3.8
 langchain
+```

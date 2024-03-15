@@ -1,0 +1,800 @@
+{
+"messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What vitamins are in an apple?"
+    },
+   {
+    "role": "assistant",
+    "content": "Apples are a good source of Vitamin C and also provide some Vitamin K, Vitamin B6, and potassium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How many calories are in a banana?"
+    },
+    {
+    "role": "assistant",
+    "content": "A medium-sized banana has about 105 calories."
+    }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is broccoli high in protein?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, broccoli is relatively high in protein for a vegetable, providing about 2.6 grams of protein per cup."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are in spinach?"
+    },
+   {
+    "role": "assistant",
+    "content": "Spinach is rich in iron, calcium, magnesium, potassium, Vitamin A, folate, Vitamin C, Vitamin K1, and fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is broccoli high in protein?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, broccoli is relatively high in protein for a vegetable, providing about 2.6 grams of protein per cup."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What benefits does eating oranges offer?"
+    },
+   {
+    "role": "assistant",
+    "content": "Oranges are excellent for boosting the immune system thanks to their high Vitamin C content. They also provide dietary fiber, antioxidants, and several other vitamins and minerals."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much fiber is in a carrot?"
+    },
+   {
+    "role": "assistant",
+    "content": "A medium-sized carrot contains about 1.7 grams of fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Can you tell me about the nutrients in a tomato?"
+    },
+   {
+    "role": "assistant",
+    "content": "Tomatoes are a good source of Vitamin C, potassium, folate, Vitamin K, and the antioxidant lycopene."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the health benefits of eating kale?"
+    },
+   {
+    "role": "assistant",
+    "content": "Kale is nutrient-dense, packed with antioxidants like quercetin and kaempferol, high in Vitamin C, Vitamin K, and various B vitamins. It supports heart health, reduces inflammation, and may protect against certain cancers."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How many calories are there in a slice of watermelon?"
+    },
+   {
+    "role": "assistant",
+    "content": "A slice of watermelon has approximately 86 calories."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What's the vitamin content of strawberries?"
+    },
+   {
+    "role": "assistant",
+    "content": "Strawberries are an excellent source of Vitamin C and manganese and also contain decent amounts of folate (B9) and potassium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is avocado good for your health?"
+    },
+   {
+    "role": "assistant",
+    "content": "Absolutely, avocados are loaded with healthy fats, particularly monounsaturated fat, which is good for heart health. They're also high in fiber, potassium, Vitamin E, and magnesium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much Vitamin C is in a kiwi?"
+    },
+   {
+    "role": "assistant",
+    "content": "A medium-sized kiwi contains about 71 mg of Vitamin C, which is about 79% of the daily recommended intake."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the benefits of eating blueberries?"
+    },
+   {
+    "role": "assistant",
+    "content": "Blueberries are rich in antioxidants, particularly anthocyanins, which may reduce the risk of heart disease, improve brain health, and help moderate blood sugar levels."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Are sweet potatoes a good source of fiber?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, sweet potatoes are a great source of dietary fiber, particularly when the skin is left on. A medium sweet potato contains about 4 grams of fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much potassium is in a potato?"
+    },
+   {
+    "role": "assistant",
+    "content": "A medium-sized potato contains around 897 mg of potassium, making it a high-potassium food that can help manage blood pressure."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are found in cucumbers?"
+    },
+   {
+    "role": "assistant",
+    "content": "Cucumbers are high in water and provide a modest amount of nutrients like Vitamin K, potassium, and magnesium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Can you tell me the calorie content of grapes?"
+    },
+   {
+    "role": "assistant",
+    "content": "There are about 62 calories in 100 grams of grapes."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the health benefits of eating garlic?"
+    },
+   {
+    "role": "assistant",
+    "content": "Garlic is known for its immune-boosting properties, ability to reduce blood pressure, improve cholesterol levels, and its antioxidants may help prevent Alzheimer’s disease and dementia."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How many calories are in an avocado?"
+    },
+   {
+    "role": "assistant",
+    "content": "A whole avocado has about 322 calories, mostly from healthy fats."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What vitamins are in a mango?"
+    },
+   {
+    "role": "assistant",
+    "content": "Mangoes are rich in Vitamin C, folate, Vitamin A, Vitamin E, and several B vitamins."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is eating grapes good for your skin?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, grapes contain antioxidants like resveratrol that can protect your skin from damage and may reduce the signs of aging."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the nutritional benefits of pomegranate?"
+    },
+   {
+    "role": "assistant",
+    "content": "Pomegranates are rich in fiber, vitamins, particularly Vitamin C and K, and contain a high level of antioxidants, which can reduce inflammation and lower the risk of various diseases."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How many vitamins are in a pear?"
+    },
+   {
+    "role": "assistant",
+    "content": "Pears offer a variety of vitamins such as Vitamin C, Vitamin K, and some B vitamins. They're also a good source of dietary fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the health benefits of eating beets?"
+    },
+   {
+    "role": "assistant",
+    "content": "Beets are beneficial for lowering blood pressure, improving digestive health, supporting brain health, and they have anti-inflammatory properties."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Are onions high in fiber?"
+    },
+   {
+    "role": "assistant",
+    "content": "Onions contain a moderate amount of fiber, with a medium onion providing about 1.9 grams of fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What vitamins are in bell peppers?"
+    },
+   {
+    "role": "assistant",
+    "content": "Bell peppers are an excellent source of Vitamin A, Vitamin C, and Vitamin B6. They also contain folate and Vitamin E."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much calcium is in broccoli?"
+    },
+   {
+    "role": "assistant",
+    "content": "One cup of chopped broccoli contains about 43 mg of calcium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the benefits of eating cucumbers?"
+    },
+   {
+    "role": "assistant",
+    "content": "Cucumbers are hydrating, low in calories, provide some nutrients like Vitamin K, and may help in weight management and lowering blood sugar."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Are cherries good for sleep?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, cherries are one of the few natural sources of melatonin, which can improve the quality of your sleep."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are in almonds?"
+    },
+   {
+    "role": "assistant",
+    "content": "Almonds are a great source of Vitamin E, magnesium, fiber, and protein. They also contain healthy fats, calcium, and potassium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is lemon water good for you?"
+    },
+   {
+    "role": "assistant",
+    "content": "Lemon water can aid digestion, provide Vitamin C, hydrate the body, and may support weight loss. It's also thought to improve skin quality."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the benefits of eating apples?"
+    },
+   {
+    "role": "assistant",
+    "content": "Apples can support heart health, improve weight management, reduce the risk of diabetes, have prebiotic effects that promote gut health, and may protect against cancer."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much Vitamin A is in a carrot?"
+    },
+   {
+    "role": "assistant",
+    "content": "One medium-sized carrot provides about 1,096 micrograms of Vitamin A, which is more than 100% of the daily recommended intake."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Are potatoes a good source of vitamins?"
+    },
+   {
+    "role": "assistant",
+    "content": "Potatoes are a good source of Vitamin C, Vitamin B6, and potassium. They also provide some magnesium and dietary fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What vitamins are in raspberries?"
+    },
+   {
+    "role": "assistant",
+    "content": "Raspberries are high in Vitamin C, manganese, fiber, and antioxidants. They also contain Vitamin K and magnesium."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is ginger good for health?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, ginger has numerous health benefits, including anti-inflammatory properties, nausea relief, improved digestion, and it may lower blood sugar levels and reduce the risk of heart disease."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are in a peach?"
+    },
+   {
+    "role": "assistant",
+    "content": "Peaches are a good source of vitamins such as Vitamin C, Vitamin A, and niacin. They also provide potassium and fiber."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the health benefits of eating zucchini?"
+    },
+   {
+    "role": "assistant",
+    "content": "Zucchini is low in calories, high in antioxidants, contributes to healthy digestion, may reduce blood sugar levels, and supports heart health."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How much iron is in spinach?"
+    },
+   {
+    "role": "assistant",
+    "content": "One cup of cooked spinach contains about 6.4 mg of iron, which is about 36% of the daily recommended intake."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Are eggplants good for your health?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, eggplants are low in calories, high in fiber, and contain nutrients like manganese, folate, potassium, and vitamins C and K. They also have compounds that may help reduce the risk of heart disease."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are in lettuce?"
+    },
+   {
+    "role": "assistant",
+    "content": "Lettuce is a good source of Vitamin A, Vitamin K, and folate. It also contains small amounts of Vitamin C, calcium, and iron."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "Is eating mushrooms beneficial?"
+    },
+   {
+    "role": "assistant",
+    "content": "Yes, mushrooms are beneficial as they are low in calories, high in antioxidants, vitamins (especially B vitamins), and minerals. They may boost the immune system and support heart health."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What are the health benefits of eating pumpkin?"
+    },
+   {
+    "role": "assistant",
+    "content": "Pumpkin is rich in vitamins, such as Vitamin A, and antioxidants. It supports eye health, may boost the immune system, and is beneficial for heart and skin health."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "How many calories are in a cup of blueberries?"
+    },
+   {
+    "role": "assistant",
+    "content": "A cup of blueberries contains about 84 calories."
+   }
+ ]
+}
+{
+ "messages" : [
+    {
+    "role": "system",
+    "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+    },
+    {
+    "role": "user",
+    "content": "What nutrients are in walnuts?"
+    },
+   {
+    "role": "assistant",
+    "content": "Walnuts are rich in omega-3 fatty acids, antioxidants, magnesium, phosphorus, copper, manganese, and Vitamin B6."
+   }
+ ]
+}
+{
+  "messages" : [
+     {
+     "role": "system",
+     "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+     },
+     {
+     "role": "user",
+     "content": "What vitamins are in a papaya?"
+     },
+    {
+     "role": "assistant",
+     "content": "Papaya is rich in various vitamins, including: Vitamin C,Vitamin A,Vitamin E,Vitamin K and Folate (Vitamin B9)"
+    }
+  ]
+}
+{
+  "messages" : [
+     {
+     "role": "system",
+     "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+     },
+     {
+     "role": "user",
+     "content": "How many calories are in pineapple?"
+     },
+    {
+     "role": "assistant",
+     "content": "A typical serving of pineapple, which is about 1 cup (165 grams), contains approximately 82 calories."
+    }
+  ]
+}
+{
+  "messages" : [
+     {
+     "role": "system",
+     "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+     },
+     {
+     "role": "user",
+     "content": "what are the benefits of eating corns?"
+     },
+    {
+     "role": "assistant",
+     "content": "Eating corns,offers several health benefits: Nutrient-rich,Dietary Fiber,Antioxidants,Energy Source,May Lower Cholesterol and May Support Weight Management"
+    }
+  ]
+}
+{
+  "messages" : [
+     {
+     "role": "system",
+     "content": "YouFit is a chatbot that gives information about day to day fruits and vegetables that you should be having with nutrient chart"
+     },
+     {
+     "role": "user",
+     "content": "what vitamins are in drumsticks?"
+     },
+    {
+     "role": "assistant",
+     "content": "Drumsticks, also known as moringa or Moringa oleifera, are rich in various vitamins, including: Vitamin A,Vitamin C,Vitamin E,Vitamin K and B Vitamins"
+    }
+  ]
+}
